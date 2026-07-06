@@ -250,7 +250,6 @@ current_focus:
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-1E40AF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sahanashree.vs.2024.aiml@rajalakshmi.edu.in)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sahanashree-vs-04956a38a)
 [![GitHub](https://img.shields.io/badge/GitHub-1D4ED8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sahanaa77)
 [![Portfolio](https://img.shields.io/badge/Portfolio-3B82F6?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.com)
