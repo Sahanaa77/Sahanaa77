@@ -73,13 +73,13 @@ open_to:
 <summary><b>🖐️ AirDood — Hand Gesture Drawing Tool</b></summary>
 <br/>
 
-An AI-based virtual drawing application that lets users draw on-screen using real-time hand gesture recognition instead of a mouse or stylus.
+An AI-based virtual drawing application that lets users draw on screen using real time hand gesture recognition instead of a mouse or stylus.
 
 | Stack | Scale | Details |
 |---|---|---|
-| Python, OpenCV | Single-user desktop app | Real-time hand tracking translated into on-screen drawing input |
+| Python, OpenCV | Single-user desktop app | Real time hand tracking translated into on-screen drawing input |
 
-Built to explore practical applications of computer vision beyond static image classification — focused on real-time gesture-to-action mapping.
+Built to explore practical applications of computer vision beyond static image classification - focused on real time gesture-to-action mapping.
 
 </details>
 
@@ -87,13 +87,13 @@ Built to explore practical applications of computer vision beyond static image c
 <summary><b>🍽️ Zomato Dataset Analysis</b></summary>
 <br/>
 
-Exploratory data analysis on a large-scale restaurant dataset to uncover patterns in ratings, cuisines, and pricing.
+Exploratory data analysis on a large scale restaurant dataset to uncover patterns in ratings, cuisines, and pricing.
 
 | Stack | Scale | Details |
 |---|---|---|
 | Python, Pandas, Matplotlib | 67,000+ restaurant records | Data cleaning, aggregation, and visual analysis of trends |
 
-Focused on turning a raw, messy dataset into clear, visual, actionable insight — a full EDA pipeline from ingestion to interpretation.
+Focused on turning a raw, messy dataset into clear, visual, actionable insight - a full EDA pipeline from ingestion to interpretation.
 
 </details>
 
@@ -107,7 +107,7 @@ A machine learning system that analyzes student data to forecast academic outcom
 |---|---|---|
 | Python, Scikit-learn | Student-level dataset | Predictive modeling for academic performance forecasting |
 
-Built as an end-to-end pipeline — from raw student records to a working predictive model — with an eye toward how such tools could support early academic intervention.
+Built as an end-to-end pipeline from raw student records to a working predictive model - with an eye toward how such tools could support early academic intervention.
 
 </details>
 
@@ -119,7 +119,7 @@ A responsive online grocery shopping platform designed for ease of use.
 
 | Stack | Scale | Details |
 |---|---|---|
-| HTML, CSS | Full front-end website | Intuitive, user-friendly interface for online grocery shopping |
+| HTML, CSS | Full front-end website | Intuitive, user friendly interface for online grocery shopping |
 
 </details>
 
@@ -127,7 +127,7 @@ A responsive online grocery shopping platform designed for ease of use.
 <summary><b>🏠 Online Property Listing Website</b></summary>
 <br/>
 
-A real estate platform enabling users to browse, search, and explore property listings.
+A real estate platform enabling users to browse, search and explore property listings.
 
 | Stack | Scale | Details |
 |---|---|---|
@@ -139,7 +139,7 @@ A real estate platform enabling users to browse, search, and explore property li
 <summary><b>📚 Website for Future Education</b></summary>
 <br/>
 
-A modern educational portal providing students with resources, course information, and academic guidance.
+A modern educational portal providing students with resources, course information and academic guidance.
 
 | Stack | Scale | Details |
 |---|---|---|
@@ -151,7 +151,7 @@ A modern educational portal providing students with resources, course informatio
 
 ## 💼 Experience
 
-**Machine Learning Intern** — *Approtech R&D Solutions Pvt. Ltd.*
+**Machine Learning Intern** - *Approtech R&D Solutions Pvt. Ltd.*
 
 - Developed an Academic Performance Classification model using Logistic Regression
 - Performed data preprocessing, model training, and evaluation
@@ -160,7 +160,7 @@ A modern educational portal providing students with resources, course informatio
 
 <br/>
 
-**Data Analytics Intern** — *Thiranex*
+**Data Analytics Intern** - *Thiranex*
 
 - Worked with business datasets for data cleaning, analysis, and visualization
 - Assisted in deriving actionable insights using Python
@@ -175,7 +175,7 @@ A modern educational portal providing students with resources, course informatio
 
 | Recognition | Details |
 |---|---|
-| 🥇 First Prize — Disrupt.exe (Paper Prototype) | DESIGNTRIX'26, R.M.K. Engineering College |
+| 🥇 First Prize - Disrupt.exe (Paper Prototype) | DESIGNTRIX'26, R.M.K. Engineering College |
 
 </div>
 
@@ -185,20 +185,7 @@ A modern educational portal providing students with resources, course informatio
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sahanaa77&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=60A5FA&icon_color=3B82F6&text_color=c9d1d9&border_color=1E3A8A" width="48%"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sahanaa77&theme=tokyonight&background=0d1117&stroke=1E3A8A&ring=3B82F6&fire=60A5FA&currStreakLabel=60A5FA" width="48%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahanaa77&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=60A5FA&text_color=c9d1d9&border_color=1E3A8A" width="48%"/>
-
-</div>
-
----
-
-## 🏅 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Sahanaa77&theme=algolia&column=6&margin-w=8&margin-h=8&no-frame=true&title=Commits,Stars,Followers,Repositories,PullRequest,Issues" />
 
 </div>
 
@@ -221,8 +208,6 @@ A modern educational portal providing students with resources, course informatio
 <img src="https://raw.githubusercontent.com/Sahanaa77/Sahanaa77/output/github-contribution-grid-snake-dark.svg" width="97%"/>
 
 </div>
-
-> _To activate this, add the [Platane/snk](https://github.com/Platane/snk) GitHub Action to this repo — see setup note below._
 
 ---
 
@@ -252,7 +237,6 @@ current_focus:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sahanashree-vs-04956a38a)
 [![GitHub](https://img.shields.io/badge/GitHub-1D4ED8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sahanaa77)
-[![Portfolio](https://img.shields.io/badge/Portfolio-3B82F6?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.com)
 
 </div>
 
